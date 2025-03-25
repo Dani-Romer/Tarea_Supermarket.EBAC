@@ -82,7 +82,20 @@ correlacion entre el unit_price y el rating de la transacción
 
 #### RESULTADOS ("Dashboard en looker Studio"):
 
-
-
 https://lookerstudio.google.com/s/nHRUfSSnqJ4
+https://lookerstudio.google.com/s/qUd59BbXj-8
+
+
+![image](https://github.com/user-attachments/assets/dd8622bf-0f06-426d-a2b3-14520e2c253a)
+
+![image](https://github.com/user-attachments/assets/ae18f7e8-2398-48d2-9925-ab094d042cc6)
+
+![image](https://github.com/user-attachments/assets/5f328cab-d170-44c4-96ad-4dcf1a09d8e2)
+
+![image](https://github.com/user-attachments/assets/674f8632-1987-45d2-8f51-6af71007be54)
+
+
+
+
+
 
